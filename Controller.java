@@ -24,5 +24,5 @@ public class ClientController {
         return clientRepository.save(client);
     }
 
-    // Add other CRUD operations as needed
+    
 }
